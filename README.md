@@ -1,5 +1,8 @@
 "# trip-ai-backend" 
 
+LIVE Deployed On Render
+https://trip-ai-backend-2h6r.onrender.com
+
 
 # TripAI Backend ✈️
 
